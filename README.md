@@ -18,3 +18,13 @@ git add submission
 git commit -m "add team document"
 git push
 ```
+
+Group Number: Recitation-016-Team-05
+Members : 			UserName:
+- Jesus Carnero        		jessten0202 
+- Aidan St. Cyr			aist9379
+- Adam Carlson			adamcarlson1
+- Nolan Lee 			NolanLee100101
+- Andrew Pfennigwerth   	anpf3183
+
+
